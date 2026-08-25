@@ -40,11 +40,11 @@ streamlit run app.py
 
 ### Customer Segment Predictor
 
-![Customer Segment Predictor](screenshots/predictor.png)
+![Customer Segment Predictor](screenshots/Predication.png)
 
 ### Customer Analytics Dashboard
 
-![Customer Analytics Dashboard](screenshots/dashboard.png)
+![Customer Analytics Dashboard](screenshots/Dashboard.png)
 
 ### Home
 
