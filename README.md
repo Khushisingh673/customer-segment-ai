@@ -36,7 +36,19 @@ streamlit run app.py
 
 ## Screenshots
 
-(Add your 3 screenshots here)
+## 📸 Application Screenshots
+
+### Customer Segment Predictor
+
+![Customer Segment Predictor](screenshots/predictor.png)
+
+### Customer Analytics Dashboard
+
+![Customer Analytics Dashboard](screenshots/dashboard.png)
+
+### Home
+
+![Home page](screenshots/Home.png)
 
 ## Author
 
